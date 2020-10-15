@@ -1,0 +1,4 @@
+name = "Jeremy Lennon"
+grade = "Junior"
+major = "Computer Science"
+print ("Hello, My name is "+name+" and I am a "+grade+" at NJCU studying "+major+")
